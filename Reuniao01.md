@@ -18,9 +18,9 @@ Pautas
 
 
 
-1. Permissões Servidor TS
+1. Permissões 
 2. Administradores e Moderadores
-3. Definir regras e divulgar
+3. Regras
 4. Serviços 
 
 Sugestões
