@@ -3,7 +3,7 @@
 
 Participantes
 -------------
-  **
+  *
     *Afro
     *Racube
     *Mendes
