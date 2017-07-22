@@ -33,22 +33,22 @@ Regras Whatsapp
 1. Respeito em Primeiro Lugar
 
    
-1.1 Palavrão
+   1.1 Palavrão
  
-1.2 Sem discussões
+   1.2 Sem discussões
    
 
 
 2. Proibído Videos com os seguintes conteúdos  
 
 
-2.1 Pornográfia
+   2.1 Pornográfia
    
  
-2.2 Com Sangue
+   2.2 Com Sangue
    
    
-2.3 Apologia
+   2.3 Apologia
    
   
 
@@ -57,10 +57,10 @@ Regras Whatsapp
 3. Algum problema, diriga se aos Administrador 
 
 
-Podemos brincar, descontrair, quem nao gosta de sorrir. 
-Mas SEMPRE com BOM SENSO.
+   Podemos brincar, descontrair, quem nao gosta de sorrir. 
+   Mas SEMPRE com BOM SENSO.
 
 
 
 
-A diretoria Agradeçe a TODOS! E tenham um ótimo jogo
+A diretoria Agradeçe a TODOS! E tenham um ótimo jogo!
