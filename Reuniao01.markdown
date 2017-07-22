@@ -39,13 +39,13 @@ Regras Whatsapp
    
 
 
-2. Proibído Videos com os seguintes conteúdos  
+2. Proibido Videos com os seguintes conteúdos  
 
 
-   2.1 Pornográfia
+   2.1 Pornografia
    
  
-   2.2 Com Sangue
+   2.2 Violência, Sangue
    
    
    2.3 Apologia
@@ -59,8 +59,12 @@ Regras Whatsapp
 
    Podemos brincar, descontrair, quem nao gosta de sorrir. 
    Mas SEMPRE com BOM SENSO.
+   =========================
 
 
 
-
-A diretoria Agradeçe a TODOS! E tenham um ótimo jogo!
+  
+  
+  
+  A diretoria Agradeçe a TODOS! E tenham um ótimo jogo!
+  -----------------------------------------------------
