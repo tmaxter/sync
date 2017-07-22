@@ -3,7 +3,7 @@
 
 
 
-  *Participantes"
+  *Participantes:
     *Afro
     *Racube
     *Mendes
