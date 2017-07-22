@@ -3,21 +3,30 @@
 
 **Participantes
 
-Afro;
-Racube;
 
-Mendes;
 
-Filipi;
+Afro
 
-Vini;
+Racube
 
-prock.
+Mendes
+
+Filipi
+
+Vini
+
+prock
+
 
 
 **Pautas
 
+
+
 *Sugestões
+
+
+
 
 
 1. Permissões Servidor TS
