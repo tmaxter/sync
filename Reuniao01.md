@@ -1,7 +1,7 @@
 #Reunião 01
 ==========
 
-*Participantes
+*Participantes:
 -------------
     *Afro
     *Racube
