@@ -54,7 +54,7 @@ Regras Whatsapp
 
 
 
-3. Algum problema, diriga se aos Administrador 
+3. Algum problema, dirija se aos Administradores
 
 
    Podemos brincar, descontrair, quem nao gosta de sorrir. 
