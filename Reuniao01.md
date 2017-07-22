@@ -1,31 +1,20 @@
 #Reunião 01
+==========
+
+Participantes
+-------------
 
 
-**Participantes
+    *Afro
+    *Racube
+    *Mendes
+    *Filipi
+    *Vini
+    *prock
 
 
-
-Afro
-
-Racube
-
-Mendes
-
-Filipi
-
-Vini
-
-prock
-
-
-
-**Pautas
-
-
-
-*Sugestões
-
-
+Pautas
+-------
 
 
 
@@ -33,3 +22,6 @@ prock
 2. Administradores e Moderadores
 3. Definir regras e divulgar
 4. Serviços 
+
+Sugestões
+==========
