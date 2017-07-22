@@ -3,12 +3,16 @@
 
 **Participantes
 
-Afro
-Racube
-Mendes
-Filipi
-Vini
-prock
+Afro;
+Racube;
+
+Mendes;
+
+Filipi;
+
+Vini;
+
+prock.
 
 
 **Pautas
