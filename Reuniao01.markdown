@@ -2,14 +2,13 @@
 ==========
 
 
-
-  *Participantes:
-    *Afro
-    *Racube
-    *Mendes
-    *Filipi
-    *Vini
-    *prock
+* Participantes:
+    * Afro
+    * Racube
+    * Mendes
+    * Filipi
+    * Vini
+    *Prock
 
 
 Pautas
